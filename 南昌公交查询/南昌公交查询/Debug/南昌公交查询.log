@@ -1,0 +1,7 @@
+﻿  NC.cpp
+f:\桌面文件\我的c程序\c++项目\南昌公交查询\南昌公交查询\ncmap.h(298): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\桌面文件\我的c程序\c++项目\南昌公交查询\南昌公交查询\ncmap.h(330): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\桌面文件\我的c程序\c++项目\南昌公交查询\南昌公交查询\nc.cpp(6): warning C4326: “main”的返回类型应为“int”而非“void”
+f:\桌面文件\我的c程序\c++项目\南昌公交查询\南昌公交查询\ncmap.h(187): warning C4715: “NCmap::StationSearch”: 不是所有的控件路径都返回值
+f:\桌面文件\我的c程序\c++项目\南昌公交查询\南昌公交查询\ncmap.h(197): warning C4715: “NCmap::StationSearchback”: 不是所有的控件路径都返回值
+  南昌公交查询.vcxproj -> F:\桌面文件\我的c程序\C++项目\南昌公交查询\Debug\南昌公交查询.exe
